@@ -2,7 +2,7 @@ Project Name: Malcolm's Lansing
 
 Project Director: John Aerni-Flessner
 
-Project URL: http://projects.leadr.msu.edu/malcolmxinlansing/
+Project URL:[Malcolm's Lansing] (http://projects.leadr.msu.edu/malcolmxinlansing/)
 
 # **Summary**
 _Malcolm’s Lansing_ is an exploration into a map with marked locations in Lansing, Michigan.![Marked Locations](https://github.com/Thomas-Mark/TMark/blob/main/images/dh%20project%20map%20new.PNG) 
