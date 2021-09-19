@@ -1,5 +1,7 @@
-# Project Name: Malcolm's Lansing
-Project Director: John Aerni-Flessner#
+Project Name: Malcolm's Lansing
+
+Project Director: John Aerni-Flessner
+
 Project URL: http://projects.leadr.msu.edu/malcolmxinlansing/#
 
 # **Summary**
