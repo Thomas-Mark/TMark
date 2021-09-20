@@ -5,7 +5,7 @@ Project Director: John Aerni-Flessner
 Project URL:[Visit Malcolm's Lansing!](http://projects.leadr.msu.edu/malcolmxinlansing/)
 
 # **Summary**
-_Malcolm’s Lansing_ is an exploration into a map with marked locations in Lansing, Michigan.![Marked Locations](https://github.com/Thomas-Mark/TMark/blob/main/images/dh%20project%20map%20new%201.jpg) 
+_Malcolm’s Lansing_ is an exploration into a map with marked locations in Lansing, Michigan.![Marked Locations](https://raw.githubusercontent.com/Thomas-Mark/TMark/main/images/dh%20project%20map%20new%201.jpg) 
 
 Each location is linked to a story pertaining to the life of Malcolm X. Malcolm X was an African-American human rights activist during the civil rights movement.The marked locations refer to important places during his time spent in Lansing and how it impacted his life. Some stories display instances where he was a victim of racism, and discrimination, while others describe controversial monuments built for Malcolm X based on his impact on others’ lives. Malcolm X faced many challenges that changed the outlook of his life and the way his philosophies were formed. 
 
