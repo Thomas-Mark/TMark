@@ -2,6 +2,8 @@
 
 For this project I decided to create a map of ThingLink that displays a story about part of my experience at CNU. Creating the map was helpful because it allowed me to tell a story, while also allowing me to reflect back on my time at CNU and realizing what locations impacted me the most. This was important because I am currently a senior and it feels like yesterday I was moving into my freshmen dorm. I often take for granted all that CNU has done for me and all of the memories I have made so far. I am usually too focused on school or sports and constantly getting caught up in the moment that I fail to take time to reflect on everything I am grateful for. For my map, I decided to pin icons of locations that I interact with on a daily basis.
 
+<iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1499041594022559746" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+
 # My Story
 
 The story I decided to tell through my map is a day in the life of my Wednesday’s here on campus. Wednesday’s tend to be my most busy day and when I interact with the most locations around campus. When I was given the day off on Friday, I went around campus and captured various images, sounds, and videos of the places I interacted with. My Friday’s are similar to my Wednesdays except for a few exceptions, so I was able to capture most of my material.
