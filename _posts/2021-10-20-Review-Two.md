@@ -6,10 +6,10 @@ Project URL: http://www.swgalaxymap.com/
 
 
 # Summary
-Star Wars Galaxy Map provides an in-depth look into the complex Star Wars universe. The map features planets from the movies, TV shows, and Expanded Universe. This allows the map to be very comprehensive and informative for the viewer. Star Wars is one of the most popular and biggest movie franchises of all time. There have been 15 movies made dating back to 1977 as well as multiple tv shows. This franchise has attracted one of the largest fan bases who are passionate about the series. This map allows fans and people who are trying to learn more about the Star Wars world to search for specific planets and find out various different types of information about each planet and how it has impacted the storyline. 
+Star Wars Galaxy Map provides an in-depth look into the complex Star Wars Universe. The map features planets from the movies, TV shows, and Expanded Universe. This allows the map to be very comprehensive and informative for the viewer. Star Wars is one of the most popular and biggest movie franchises of all time. There have been 15 movies made dating back to 1977 as well as multiple tv shows. This franchise has attracted one of the largest fan bases who are passionate about the series. This map allows fans and people who are trying to learn more about the Star Wars world to search for specific planets and find out various different types of information about each planet and how it has impacted the storyline. 
 
 # Design
-This project uses the proper coding that allows viewers to interact with this project either on their laptop, cellphone, tablet, etc. On the homepage of this website it is easy to navigate through all the different sections you can go to. On the top of the screen there are tabs that clearly state what you are looking for. 
+This project uses the proper coding that allows viewers to interact with this project either on their laptop, cellphone, tablet, etc.It was made by using the _Star Wars: The Essential Atlas_ as a reference and working in ArcGIS using AutoCAD and Adobe Illustrator for supplemental work.On the homepage of this website it is easy to navigate through all the different sections you can go to. On the top of the screen there are tabs that clearly state what you are looking for. 
 ![Tabs](https://github.com/Thomas-Mark/TMark/blob/main/images/Review%202%20Design.JPG) 
 
 # Findings
