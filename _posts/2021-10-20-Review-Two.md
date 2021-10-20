@@ -1,15 +1,17 @@
 Project Name: Star Wars Galaxy Map 
+
 Project Director(s): Henry Bernberg and Kevin Wierman
+
 Project URL: http://www.swgalaxymap.com/
 
 
-Summary
+# Summary
 Star Wars Galaxy Map provides an in-depth look into the complex Star Wars universe. The map features planets from the movies, TV shows, and Expanded Universe. This allows the map to be very comprehensive and informative for the viewer. Star Wars is one of the most popular and biggest movie franchises of all time. There have been 15 movies made dating back to 1977 as well as multiple tv shows. This franchise has attracted one of the largest fan bases who are passionate about the series. This map allows fans and people who are trying to learn more about the Star Wars world to search for specific planets and find out various different types of information about each planet and how it has impacted the storyline. 
 
-Design
+# Design
 This project uses the proper coding that allows viewers to interact with this project either on their laptop, cellphone, tablet, etc. On the homepage of this website it is easy to navigate through all the different sections you can go to. On the top of the screen there are tabs that clearly state what you are looking for. ![Tabs](https://github.com/Thomas-Mark/TMark/blob/main/images/Review%202%20Design.JPG) (Insert Picture)
 
-Findings
+# Findings
 The Star Wars Universe is very complex and has many changing parts over time. The creator of this project allows viewers and fans of Star Wars to be able to interact with the galaxy and learn more about planets of their choosing. Once you click on a planet you are able to see the Region, Grid, and coordinates. Also, there is a link that you can click on and it will redirect you to another Star Wars website, that dives deeper into the planet and gives a more detailed response on how it is involved in the storyline. ![Planet Info](https://github.com/Thomas-Mark/TMark/blob/main/images/Review%20Two%20planet.JPG) (Picutre of more detailed response.)
 
 One problem with the project is for multiple planets when you try to click on the link it does not work and pops up as an error. This means viewers cannot learn more about the planet and are unaware of the significance it has, especially if they have never heard of it before. Although this is an issue, the creator of the project has a “Contact” tab, where he urges viewers to fill out a form stating what the specific issue is so that it can be fixed. ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png) (Insert Tab photo
