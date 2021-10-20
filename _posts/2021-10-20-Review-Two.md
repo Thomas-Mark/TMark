@@ -22,3 +22,5 @@ Another small issue with the project is that when you are on the home page and v
 
  Furthermore, the first tab next to the home one is “Search the Galaxy”. Here, you can type in the planet of your choosing and it will take you directly there. From there, you can then zoom in or out again to see where it is relative to other planets, or reset the view and restart another search.
  ![Star Wars Galaxy](https://github.com/Thomas-Mark/TMark/blob/main/images/Home%20page%20map%20review%202.JPG) 
+ 
+ Overall, this project was effective in achieving its purpose and efficient for viewers to use. As a Star Wars fan myself, I enjoyed searching certain planets I remember from the movie and reading up for information about them. I also went through planets I had never heard of to see how it was involved in the storyline. I highly recommend Star Wars fans and people unfamiliar with the Star Wars Universe to view this project.
