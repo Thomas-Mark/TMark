@@ -14,7 +14,7 @@ This project uses the proper coding that allows viewers to interact with this pr
 ![Tabs](https://github.com/Thomas-Mark/TMark/blob/main/images/Review%202%20Design.JPG) 
 
 # Findings
-The Star Wars Universe is very complex and has many changing parts over time. The creator of this project allows viewers and fans of Star Wars to be able to interact with the galaxy and learn more about planets of their choosing. Once you click on a planet you are able to see the Region, Grid, and coordinates. Also, there is a link that you can click on and it will redirect you to another Star Wars website, that dives deeper into the planet and gives a more detailed response on how it is involved in the storyline. 
+The Star Wars Universe is very complex and has many changing parts over time. The creator of this project allows viewers and fans of Star Wars to be able to interact with the galaxy and learn more about planets of their choosing. Once you click on a planet you are able to see the Region, Grid, and coordinates. Also, there is a link that you can click on and it will redirect you to another Star Wars related , that dives deeper into the planet and gives a more detailed response on how it is involved in the storyline. 
 
 ![Planet Info](https://github.com/Thomas-Mark/TMark/blob/main/images/Review%20Two%20planet.JPG) 
 
