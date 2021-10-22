@@ -14,18 +14,18 @@ This project uses the proper coding that allows viewers to interact with this pr
 ![Tabs]( https://thomas-mark.github.io/TMark/images/Review%202%20Design.JPG) 
 
 # Findings
-The Star Wars Universe is very complex and has many changing parts over time. The creator of this project allows viewers and fans of Star Wars to be able to interact with the galaxy and learn more about planets of their choosing. Once you click on a planet you are able to see the Region, Grid, and coordinates. Also, there is a link that you can click on and it will redirect you to another Star Wars related , that dives deeper into the planet and gives a more detailed response on how it is involved in the storyline. 
+The Star Wars Universe is very complex and has many changing parts over time. The creator of this project allows viewers and fans of Star Wars to be able to interact with the galaxy and learn more about planets of their choosing. Once you click on a planet you are able to see the Region, Grid, and coordinates. Also, there is a link that you can click on and it will redirect you to another Star Wars related website, such as Wookieepedia, that dives deeper into the planet and gives a more detailed response on how it is involved in the storyline. 
 
 ![Planet Info](https://thomas-mark.github.io/TMark//images/Review%20Two%20planet.JPG) 
 
-One problem with the project is for multiple planets when you try to click on the link it does not work and pops up as an error. This means viewers cannot learn more about the planet and are unaware of the significance it has, especially if they have never heard of it before. Although this is an issue, the creator of the project has a “Contact” tab, where he urges viewers to fill out a form stating what the specific issue is so that it can be fixed. 
+One problem with the project is for multiple planets when you try to click on the link it does not work and pops up as an error. This means viewers cannot learn more about the planet and are unaware of the significance it has, especially if they have never heard of it before. Although this is an issue, the creator of the project has a “Contact” tab, where he urges viewers to fill out a form stating what the specific issue is, so that it can be fixed. 
 
 ![Contact](https://thomas-mark.github.io/TMark/images/Contact%20tab%20new.JPG) 
 
-Another small issue with the project is that when you are on the home page and viewing the map, it looks confusing and not very aesthetically pleasing since there are so many planets. This makes it hard to read and can be overwhelming. However, the viewers can zoom in and certain locations and it will quickly clear up.
+Another small issue with the project is that when you are on the home page and viewing the map, it looks confusing and not very aesthetically pleasing since there are so many planets. This makes it hard to read and can be overwhelming. However, the viewers can zoom in on certain locations and it will quickly clear up.
 
- Furthermore, the first tab next to the home one is “Search the Galaxy”. Here, you can type in the planet of your choosing and it will take you directly there. From there, you can then zoom in or out again to see where it is relative to other planets, or reset the view and restart another search.
+ Furthermore, the first tab next to the home one is “Search the Galaxy”. Here, you can type in the planet of your choosing and it will take you directly there. From there, you can then zoom in or out again to see where it is relative to other planets, or reset the view and start another search.
  
  ![Star Wars Galaxy](https://thomas-mark.github.io/TMark/images/Home%20page%20map%20review%202.JPG) 
  
- Overall, this project was effective in achieving its purpose and efficient for viewers to use. As a Star Wars fan myself, I enjoyed searching certain planets I remember from the movie and reading up for information about them. I also went through planets I had never heard of to see how it was involved in the storyline. I highly recommend Star Wars fans and people unfamiliar with the Star Wars Universe to view this project.
+ Overall, this project was effective in achieving its purpose and efficient for viewers to use. As a Star Wars fan myself, I enjoyed searching certain planets I remember from the movies and reading up on more information about them. I also went through planets I had never heard of to see how it was involved in the storyline. I highly recommend Star Wars fans and people unfamiliar with the Star Wars Universe to view this project.
