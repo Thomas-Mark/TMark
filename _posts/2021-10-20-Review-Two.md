@@ -31,4 +31,7 @@ Another small issue with the project is that when you are on the home page and v
  
  ![Star Wars Galaxy](https://thomas-mark.github.io/TMark/images/Home%20page%20map%20review%202.JPG) 
  
+ This is my favorite feature of the project since it makes it easy and simple to find exactly what you are looking for. Instead of having to sort through a bunch of different 
+ filters, all you have to do is type in the planets name and it will zoom directly into it. From here you can click on the planet and be redirected to another site and find all the necessary information the viewer is looking to find out.
+ 
  Overall, this project was effective in achieving its purpose and efficient for viewers to use. As a Star Wars fan myself, I enjoyed searching certain planets I remember from the movies and reading up on more information about them. I also went through planets I had never heard of to see how it was involved in the story line. I highly recommend Star Wars fans and people unfamiliar with the Star Wars Universe to view this project.
